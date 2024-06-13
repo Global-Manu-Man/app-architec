@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "106187450085",
+    "project_id": "archi-planner-android",
+    "storage_bucket": "archi-planner-android.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:106187450085:android:9949a4803cb7d217b8160c",
+        "android_client_info": {
+          "package_name": "archi.planne.android"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJodg94Djx7ksGDRpnABv53Q8jz4xr0PI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
